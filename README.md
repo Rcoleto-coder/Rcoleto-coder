@@ -1,7 +1,7 @@
 ### Greetings! I am Rafael and welcome to my GitHub profile
 ##
 
-- 🌱 I’m currently studying Computer Programming at Sault College in Sault Ste. Marie, Canada.
+- 🌱 Interactive Developer, Game development enthusiast, front-end developer
 - 👯 I’m looking to collaborate in more projects in Github.
 - 😄 Pronouns: He/Him
 - 🎮 I hope to work in company that make amazing games someday!
